@@ -1,0 +1,1 @@
+This repository contains lab-wise solutions to **Data Structures** problems from the college manual, implemented using **Java**. Each solution is organized by lab number for easy reference and continuity.
