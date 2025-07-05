@@ -45,7 +45,7 @@ class Stack {
 
     public int change(int i, int x) {
 
-        if (top - 1 + 1 < 0) {
+        if (top - i + 1 < 0) {
             System.out.println("------------");
             System.out.println("Stack UnderFLow");
             System.out.println("------------");
